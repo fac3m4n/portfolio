@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import ComingSoon from 'react-coming-soon'
 
